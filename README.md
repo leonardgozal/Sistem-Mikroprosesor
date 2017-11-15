@@ -7,6 +7,7 @@ TUGAS KULIAH SISTEM MIKROPROSESOR
 - [ ] explain instalation, plugin  
 - [ ] upload source code *.c and or *.h (which you created or edited) to this repository  
 - [ ] add reference or link where you have learn all this tools  
+- [ ] save picture in separate docs directory, update the link to README.md  
 - [ ] a cooler project will come then  
 
 PROGRESS STM32F4 : - INSTALLASI SOFTWARE ECLIPSE + CDT + ARM PLUGIN, COBA STM32F4 JADI MOUSE, DATASHEET
