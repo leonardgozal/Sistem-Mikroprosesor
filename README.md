@@ -26,3 +26,6 @@ PROGRESS STM32F4 : - INSTALLASI SOFTWARE ECLIPSE + CDT + ARM PLUGIN, COBA STM32F
             ![LD1 Blink (2)](https://github.com/leonardgozal/Sistem-Mikroprosesor/blob/master/docs/IMG_4586.JPG)
             ![LD1 Blink (3)](https://github.com/leonardgozal/Sistem-Mikroprosesor/blob/master/docs/IMG_4587.JPG)
             ![LD1 Blink (4)](https://github.com/leonardgozal/Sistem-Mikroprosesor/blob/master/docs/IMG_4588.JPG)
+
+11/20/2017:
+- installation plugin dll dari : https://gnu-mcu-eclipse.github.io/
