@@ -20,7 +20,7 @@ PROGRESS STM32F4 : - INSTALLASI SOFTWARE ECLIPSE + CDT + ARM PLUGIN, COBA STM32F
 11/13/2017: 
 - build project di eclipse -> dapat file .hex dan .elf (debug)
 - connect binary file ke stm32f407 menggunakan stlink
-- hasilnya LD1 blink
+- hasilnya LD4 blink
 - hasil foto  ( burst ):
             ![LD1 Blink (1)](https://github.com/leonardgozal/Sistem-Mikroprosesor/blob/master/docs/IMG_4585.JPG)
             ![LD1 Blink (2)](https://github.com/leonardgozal/Sistem-Mikroprosesor/blob/master/docs/IMG_4586.JPG)
@@ -29,3 +29,6 @@ PROGRESS STM32F4 : - INSTALLASI SOFTWARE ECLIPSE + CDT + ARM PLUGIN, COBA STM32F
 
 11/20/2017:
 - installation plugin dll dari : https://gnu-mcu-eclipse.github.io/
+
+11/27/2017:
+- hex blink on *3/40
