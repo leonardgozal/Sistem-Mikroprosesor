@@ -32,5 +32,5 @@ PROGRESS STM32F4 : - INSTALLASI SOFTWARE ECLIPSE + CDT + ARM PLUGIN, COBA STM32F
 
 11/27/2017:
 - hex blink on *3/40
-![LD1 Blink (3)](https://github.com/leonardgozal/Sistem-Mikroprosesor/blob/master/docs/IMG_4605.JPG)
-![LD1 Blink (4)](https://github.com/leonardgozal/Sistem-Mikroprosesor/blob/master/docs/IMG_4606.JPG)
+![LD4 Blink (1)](https://github.com/leonardgozal/Sistem-Mikroprosesor/blob/master/docs/IMG_4605.JPG)
+![LD4 Blink (2)](https://github.com/leonardgozal/Sistem-Mikroprosesor/blob/master/docs/IMG_4606.JPG)
